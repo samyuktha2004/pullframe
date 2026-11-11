@@ -1,4 +1,5 @@
 {
+  "title": "Pullframe",
   "description": "Transform videos into 5-frame scanimation illusions with precise cropping and export options for social media sharing and web embedding.",
   "robots": {
     "index": false

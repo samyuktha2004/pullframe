@@ -831,7 +831,7 @@ s.onpointerup=e=>{down=false;base=Math.max(0,Math.min(72,base+e.clientX-start))}
             onClick={reset}
             aria-label="Return to upload"
           >
-            PULLFRAME<span>®</span>
+            PULLFRAME
           </button>
           {stage !== "upload" && (
             <button className="header-back" type="button" onClick={goBack}>
